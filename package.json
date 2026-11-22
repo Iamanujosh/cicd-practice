@@ -1,0 +1,23 @@
+{
+  "name": "cicd-practice",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Iamanujosh/cicd-practice.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Iamanujosh/cicd-practice/issues"
+  },
+  "homepage": "https://github.com/Iamanujosh/cicd-practice#readme",
+  "description": "",
+  "devDependencies": {
+    "jest": "^30.5.2"
+  }
+}
